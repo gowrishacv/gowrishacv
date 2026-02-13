@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on. Azure cloud architecture. Security. Scalability. Cost control<br>🤝 I’m looking to collaborate on. Landing zones. Migrations. IaC. Governance<br>🙌 I’m looking for help with. AKS production patterns. Observability. FinOps automation<br>🌱 I’m currently learning. Kubernetes. Zero Trust. Event driven architecture<br>💬 Ask me about. Azure networking. Identity. DR. Architecture reviews<br>⚡ Fun fact. Solo travel + photography. I chase light and clean designs
 
+[![My Skills](https://skillicons.dev/icons?i=js,azure,gcp,aws,bash,terraform,powershell,vscode,windows,apple,git,nginx,kubernetes,docker,c,vim)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowrish@outlook.com) 
